@@ -1,7 +1,8 @@
-# 101234383LabTest2Comp3133
+# SpaceX Api Angular Web App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
+You can visit the project with this link: https://duckybom.github.io/spacex-test/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
